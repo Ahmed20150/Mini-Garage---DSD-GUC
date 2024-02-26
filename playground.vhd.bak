@@ -1,0 +1,13 @@
+import ieee;
+use ieee.std_logic_1164.all;
+
+Entity Vhdl1 is
+	
+	Port(A output std_logic);
+	
+End Vhdl1;
+
+Architecture arch_led of Vhdl1 IS
+begin 
+A <= '1';
+end arch_led;
