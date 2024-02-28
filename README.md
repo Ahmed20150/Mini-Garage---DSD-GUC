@@ -41,14 +41,13 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 Special thanks to our dedicated team for their commitment and collaborative spirit in bringing this project to fruition
-- [Ahmed Gasser](https://github.com/Ahmed20150)
-- [Amr Hegazy](https://github.com/Amr-Hegazy1)
+- [![Ahmed Gasser](https://github.com/Ahmed20150.png)](https://github.com/Ahmed20150)
+- [![Amr Hegazy](https://github.com/Amr-Hegazy1.png)](https://github.com/Amr-Hegazy1)
 - [Ahmed Sameh]()
-- [Omar Harridy](https://github.com/OHarridy)
+- [![Omar Harridy](https://github.com/OHarridy)](https://github.com/OHarridy)
 - [Seif Tarek]()
-- [Zeyad Attia](https://github.com/ZeyadAttia5)
+- [![Zeyad Attia](https://github.com/ZeyadAttia5)](https://github.com/ZeyadAttia5)
 
-  
 
 
 
