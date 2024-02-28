@@ -88,7 +88,19 @@ Special thanks to our dedicated team for their commitment and collaborative spir
 </div> -->
 
 Special thanks to our dedicated team for their commitment and collaborative spirit in bringing this project to fruition
-| [![Ahmed Gasser](https://github.com/Ahmed20150.png)](https://github.com/Ahmed20150) | [![Amr Hegazy](https://github.com/Amr-Hegazy1.png)](https://github.com/Amr-Hegazy1) | [Ahmed Sameh]() | [![Omar Harridy](https://github.com/OHarridy)](https://github.com/OHarridy) | [Seif Tarek]() | [![Zeyad Attia](https://github.com/ZeyadAttia5)](https://github.com/ZeyadAttia5) |
+| <div style="margin-right: 10px;">
+        <a href="https://github.com/Ahmed20150">
+            <img src="https://github.com/Ahmed20150.png" alt="Ahmed's picture" width="100" height="100">
+        </a>
+        <br>
+        <span>Ahmed Gasser</span>
+    </div> |  <div style="margin-right: 10px;">
+        <a href="https://github.com/Amr-Hegazy1">
+            <img src="https://github.com/Amr-Hegazy1.png" alt="Amr's picture" width="100" height="100">
+        </a>
+        <br>
+        <span>Amr Hegazy</span>
+    </div> | [Ahmed Sameh]() | [![Omar Harridy](https://github.com/OHarridy)](https://github.com/OHarridy) | [Seif Tarek]() | [![Zeyad Attia](https://github.com/ZeyadAttia5)](https://github.com/ZeyadAttia5) |
 
 
 
