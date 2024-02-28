@@ -42,7 +42,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Special thanks to our dedicated team for their commitment and collaborative spirit in bringing this project to fruition
 
-<div style="display: flex; flex-direction: row;">
+<!--<div style="display: flex; flex-direction: row; border-radius:">
     <div style="margin-right: 10px;">
         <a href="https://github.com/Ahmed20150">
             <img src="https://github.com/Ahmed20150.png" alt="Ahmed's picture" width="100" height="100">
@@ -85,11 +85,10 @@ Special thanks to our dedicated team for their commitment and collaborative spir
         <br>
         <span>Zeyad Attia</span>
     </div>
-</div>
+</div> -->
 
-- [Ahmed Sameh]()
-- [![Omar Harridy](https://github.com/OHarridy)]()
-
+Special thanks to our dedicated team for their commitment and collaborative spirit in bringing this project to fruition
+| [![Ahmed Gasser](https://github.com/Ahmed20150.png)](https://github.com/Ahmed20150) | [![Amr Hegazy](https://github.com/Amr-Hegazy1.png)](https://github.com/Amr-Hegazy1) | [Ahmed Sameh]() | [![Omar Harridy](https://github.com/OHarridy)](https://github.com/OHarridy) | [Seif Tarek]() | [![Zeyad Attia](https://github.com/ZeyadAttia5)](https://github.com/ZeyadAttia5) |
 
 
 
