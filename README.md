@@ -1,37 +1,38 @@
 # Mini Garage Project
 
-Welcome to the Mini Garage project! This project simulates a special type of garage where a gate opens automatically upon detecting a car, and keeps track of the number of entering cars using a 7 segment display.
-
-## Description
-
-In this project, the gate opens automatically when it detects a car approaching. Once the car enters after the gate opens, the monitor increases the count of entering cars by 1.
+Welcome to the Mini Garage project! This project aims to create a special type of garage where the gate opens automatically upon detecting a car using a force sensor. After the car has passed, the number displayed on a 7-segment display increments by 1. The project utilizes an Arduino to read the signal from the force sensor and sends it to the DE10-Lite FPGA, which controls the servo motor responsible for opening and closing the gate.
 
 ## Tasks
 
 1. **Initialization**: The number of cars is initially set to zero.
-2. **Car Detection**: A sensor is utilized to detect when a car approaches the gate.
-3. **Gate Control**: The gate opens automatically upon detecting a car.
-4. **Gate Closure**: Upon detection of the car passing the gate, the gate returns to its initial position using an actuator.
-5. **Display**: The number of cars is displayed on the 7 segment display.
+2. **Gate Control**: A button is used to simulate the man who opens the gate.
+3. **Car Detection**: A force sensor is utilized to detect when a car approaches the gate.
+4. **Gate Closure**: Upon detection of the car passing the gate, the gate returns to its initial position using an actuator of your own choice.
+5. **Display**: The number of cars is displayed on the 7-segment display.
 
 ## Components
 
-- Sensor: Detects when a car approaches the gate.
+- Arduino: Reads the signal from the force sensor.
+- DE10-Lite FPGA: Controls the servo motor for gate operation.
+- Force Sensor: Detects when a car approaches the gate.
 - Actuator: Returns the gate to its initial position.
-- 7 Segment Display: Displays the number of entering cars.
+- 7 Segment Display: Displays the number of cars.
 
 ## Setup Instructions
 
-1. Connect the sensor, actuator, and 7 segment display to the microcontroller or development board.
-2. Upload the appropriate code to the microcontroller.
-3. Ensure all connections are secure and functioning properly.
-4. Test the system by approaching the gate with a car to trigger automatic gate opening and passing a car through the gate.
+1. Connect the force sensor to the Arduino.
+2. Connect the Arduino, actuator, and 7-segment display to the DE10-Lite FPGA.
+3. Upload the appropriate code to both the Arduino and DE10-Lite FPGA.
+4. Ensure all connections are secure and functioning properly.
+5. Test the system by approaching the gate with a car to trigger automatic gate opening and passing a car through the gate.
 
 ## Usage
 
-1. The gate opens automatically when a car approaches.
-2. When a car is detected passing through the gate, the gate closes automatically.
-3. The 7 segment display will update to show the current count of entering cars.
+1. Press the button to open the gate manually.
+2. The gate opens automatically when a car approaches, detected by the force sensor.
+3. When a car is detected passing through the gate, the gate closes automatically.
+4. The 7-segment display will update to show the current count of entering cars.
+
 
 <!--## License
 
